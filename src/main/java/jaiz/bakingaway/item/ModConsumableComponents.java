@@ -1,0 +1,18 @@
+package jaiz.bakingaway.item;
+
+
+import net.minecraft.component.type.ConsumableComponent;
+import net.minecraft.entity.effect.StatusEffectInstance;
+import net.minecraft.entity.effect.StatusEffects;
+import net.minecraft.item.consume.ApplyEffectsConsumeEffect;
+
+import static net.minecraft.component.type.ConsumableComponents.food;
+
+public class ModConsumableComponents {
+
+    public static final ConsumableComponent BURNT_DONUT = food()
+            .consumeEffect(new ApplyEffectsConsumeEffect(new StatusEffectInstance(
+                    StatusEffects.NAUSEA, 180, 1), 1.0F))
+            .build();
+
+}
