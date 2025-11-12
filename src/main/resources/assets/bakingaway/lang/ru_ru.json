@@ -1,21 +1,21 @@
 {
   "itemgroup.baking": "BakingAway",
 
-  "item.bakingaway.flour": "Flour",
+  "item.bakingaway.flour": "Мука",
 
-  "item.bakingaway.pie": "Pie",
-  "item.bakingaway.sushi": "Sushi",
-  "item.bakingaway.baked_cookie": "Baked Cookie",
+  "item.bakingaway.pie": "Пирог",
+  "item.bakingaway.sushi": "Суши",
+  "item.bakingaway.baked_cookie": "Печенье",
 
-  "item.bakingaway.spoon": "Spoon",
-  "item.bakingaway.iced_spoon": "Iced Spoon",
-  "item.bakingaway.donut": "Donut",
-  "item.bakingaway.uniced_donut": "Un-Iced Donut",
-  "item.bakingaway.burnt_donut": "Burnt Donut",
-  "item.bakingaway.uncooked_donut": "Un-Cooked Donut",
-  "item.bakingaway.sweet_dough": "Sweet Dough",
-  "block.bakingaway.sweet_dough": "Sweet Dough",
-  "item.bakingaway.risen_sweet_dough": "Risen Sweet Dough",
-  "block.bakingaway.mill": "Mill",
-  "item.bakingaway.mill": "Mill"
+  "item.bakingaway.spoon": "Ложка",
+  "item.bakingaway.iced_spoon": "Ложка с глазурью",
+  "item.bakingaway.donut": "Пончик",
+  "item.bakingaway.uniced_donut": "Пончик без глазури",
+  "item.bakingaway.burnt_donut": "Сгоревший пончик",
+  "item.bakingaway.uncooked_donut": "Непропечённое тесто",
+  "item.bakingaway.sweet_dough": "Сладкое тесто",
+  "block.bakingaway.sweet_dough": "Сладкое тесто",
+  "item.bakingaway.risen_sweet_dough": "Поднявшееся сладкое тесто",
+  "block.bakingaway.mill": "Жёрнов",
+  "item.bakingaway.mill": "Жёрнов"
 }
